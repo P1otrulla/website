@@ -1,10 +1,10 @@
 fixed-button-width: false # Set to true/false
 icon-position: left # Set to left/right
 buttons:
-  - category: Blogs
+  - category: ptrlNewbieProtection
     items:
-    - title: Example
-      url: https://www.example.com
+    - title: Secoure your newbie
+      url: https://github.com/P1otrulla/ptrlNewbieProtection
       icon: tdesign:activity # Icons are optional
       tag: Tag
 
